@@ -10,7 +10,7 @@ To build a predictive model that can accurately identify whether a person is dia
 ---
 ## 📂 Dataset
 
-- **Source:** [Kaggle - Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+- **Source:** [Kaggle - Diabetes Dataset](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset/data)
 - **Features:**
   - Pregnancies
   - Glucose
